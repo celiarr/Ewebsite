@@ -1,0 +1,39 @@
+body {
+  padding-top: 5rem;
+  margin: 5em;
+  color: white;
+  background: url(https://cdn.glitch.me/1de531f8-c064-422e-887b-4090d77eb7e7%2FIMG_6423.JPG?v=1636894419727)
+
+
+  
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
+ 
+  
+}
+.nav-p{
+  display:inline-block;
+  padding-top:.3125rem;
+  padding-bottom:.3125rem;
+  margin-right:1rem;
+  font-size:1.25rem;
+  
+
+  line-height:inherit;
+  white-space:nowrap;
+  color: white;
+
+  
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+  }
+h1 {
+  font-style: bold;
+  color: White;
+  
+}
